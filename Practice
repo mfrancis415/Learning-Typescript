@@ -1,5 +1,3 @@
-const pi: number = 3.14.159
-let radius: number = 7
-let area: number = pi* radius * radius
+let quantity: numer = 5;
+quantity = "five"; //Typescript says "Type 'string' is not assignable to type 'number'."
 
-console.log(`The area of the circle is ${area}`);
