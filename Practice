@@ -1,3 +1,6 @@
-let quantity: numer = 5;
-quantity = "five"; //Typescript says "Type 'string' is not assignable to type 'number'."
+let product: string = "Milk";
+let price: number = 3.99;
+let quantity: number = 2;
+let total: number = (price * quantity);
 
+console.log(`You bought ${quantity} units of ${product}. Total cost: ${total.toFixed(2)}`);
