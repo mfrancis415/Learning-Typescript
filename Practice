@@ -1,6 +1,6 @@
-let product: string = "Milk";
-let price: number = 3.99;
-let quantity: number = 2;
-let total: number = (price * quantity);
+let username: string = "Tiffany";
+let currentage: number = 16;
+let targetage: number = 36;
+let years: number = targetage - currentage;
 
-console.log(`You bought ${quantity} units of ${product}. Total cost: ${total.toFixed(2)}`);
+console.log(`${username} will reach ${targetage} in ${years} years.`);
