@@ -1,5 +1,5 @@
-let name: string = "Monica"
-const age: number = 49;
-let typescript: boolean = false;
+const pi: number = 3.14.159
+let radius: number = 7
+let area: number = pi* radius * radius
 
-console.log(name, age, typescript);
+console.log(`The area of the circle is ${area}`);
