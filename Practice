@@ -1,0 +1,5 @@
+let name: string = "Monica"
+const age: number = 49;
+let typescript: boolean = false;
+
+console.log(name, age, typescript);
