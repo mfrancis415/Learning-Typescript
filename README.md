@@ -6,7 +6,7 @@ This repository contains my TypeScript solutions and notes from the [7 Modern La
 
 ## 📚 Week 1: Core Concepts
 
-### ✅ Day 2: Variables
+### ✅ Variables
 - Learned how to use `let` and `const`
 - Practiced type annotations: `string`, `number`, `boolean`
 - Used template literals with `${}` inside backticks
