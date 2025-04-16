@@ -1,6 +1,4 @@
-# Learning Typescript
-
-# 🟦 TypeScript: 7 Languages in 7 Weeks
+# Learning Typescript in 7 Weeks
 
 This repository contains my TypeScript solutions and notes from the [7 Modern Languages in 7 Weeks](#) challenge.
 
