@@ -1,6 +1,6 @@
 # Learning Typescript in 7 Weeks
 
-This repository contains my TypeScript solutions and notes from the [7 Week](#) challenge.
+This repository contains my TypeScript solutions and notes from the [7 Week](#) challenge, using [TypeScript](https://www.typescriptlang.org/).
 
 ## 📚 Week 1: Core Concepts
 
